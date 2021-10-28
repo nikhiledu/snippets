@@ -1,0 +1,11 @@
+LDAPEmail: ooo@mgov.uk
+access:
+  ldap: todo
+familyName: service_ppp
+givenName: ooo
+isExistingLDAPUser: false
+organisation: Other
+requesting_user: nikhil
+team: team_service_accounts
+username: ooo.service_gov
+

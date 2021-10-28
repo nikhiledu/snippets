@@ -1,0 +1,11 @@
+    "ffffff":
+    {
+        "2016/09/20 11:48:58 [Deny]: Denying access for [john.doe][ffffffff][US] (RestrictedCountry)\n", +
+        "2016/09/20 11:48:58 [Deny]: Denying access for [foo.bar][fffffffff][US] (RestrictedCountry)\n",
+    },
+    "ffffff":
+    {
+        "2016/09/20 11:48:58 [Allow]: Allowing access for [nikhil.sharma][ffffff][GB] (AllowedCountry)\n", +
+        "2016/09/20 11:48:58 [Deny]: Denying access for [jane.doe][fffff] (RestrictedUser)"}
+    }
+
